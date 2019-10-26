@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BackspaceGaming.Data\BackspaceGaming.Data.csproj" />
+    <ProjectReference Include="..\BackspaceGaming.Entity\BackspaceGaming.Entity.csproj" />
+  </ItemGroup>
+
+</Project>

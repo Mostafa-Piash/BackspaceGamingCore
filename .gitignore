@@ -1,0 +1,20 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/BackspaceGamingCore/v16
+/BackspaceGaming.Data/bin/Debug/netcoreapp2.2
+/BackspaceGaming.Data/obj
+/BackspaceGaming.Entity/bin/Debug/netcoreapp2.2
+/BackspaceGaming.Entity/obj
+/BackspaceGaming.Repository/bin/Debug/netcoreapp2.2
+/BackspaceGaming.Repository/obj
+/BackspaceGaming.Repositroy.Interface/obj
+/BackspaceGaming.Repostiroy.Interface/bin/Debug/netcoreapp2.2
+/BackspaceGaming.Repostiroy.Interface/obj
+/BackspaceGaming.Service/bin/Debug/netcoreapp2.2
+/BackspaceGaming.Service/obj
+/BackspaceGaming.Service.Interface/bin/Debug/netcoreapp2.2
+/BackspaceGaming.Service.Interface/obj
+/BackspaceGamingCore/obj
+/BackspaceGamingCore/bin/Debug/netcoreapp2.2

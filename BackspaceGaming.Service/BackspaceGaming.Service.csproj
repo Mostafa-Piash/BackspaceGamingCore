@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BackspaceGaming.Repository\BackspaceGaming.Repository.csproj" />
+    <ProjectReference Include="..\BackspaceGaming.Service.Interface\BackspaceGaming.Service.Interface.csproj" />
+  </ItemGroup>
+
+</Project>
